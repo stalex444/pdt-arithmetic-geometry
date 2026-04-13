@@ -11,7 +11,7 @@ This script verifies six arithmetic-geometric theorems concerning
 these polynomials and their associated number fields, and derives
 the Barbero-Immirzi parameter of loop quantum gravity algebraically.
 
-Author: Stephanie Alexander, Baryonix Corp., 2026
+Author: Stephanie Alexander, 2026
 Companion paper: "Arithmetic Geometry at the Pisot Boundary"
 DOI: [Zenodo DOI]
 
