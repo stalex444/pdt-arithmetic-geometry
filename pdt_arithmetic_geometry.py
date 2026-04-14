@@ -2,7 +2,7 @@
 PDT Arithmetic Geometry: Complete Verification
 ===============================================
 Pisot Dimensional Theory (PDT) derives fundamental physical constants
-from two Pisot polynomials:
+from two polynomials at the Pisot boundary:
 
     x^3 = x + 1   (rho-sector)  root: rho = 1.32471795724...
     x^4 = x + 1   (Q-sector)    root: Q   = 1.22074408460...
