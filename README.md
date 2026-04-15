@@ -125,10 +125,10 @@ For the full PDT framework see:
   title     = {Arithmetic Geometry at the Pisot Boundary: Galois Groups, 
                Class Fields, and Implications for Physical Geometry 
                and Loop Quantum Gravity},
-  year      = {2026},
-  publisher = {Zenodo},
-  doi       = {to be added},
-  url       = {https://doi.org/to-be-added}
+  year      = 2026,
+  publisher = Zenodo,
+  doi       = https://doi.org/10.5281/zenodo.19561374
+  url       = https://zenodo.org/records/19582084
 }
 ```
 
