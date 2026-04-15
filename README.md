@@ -7,7 +7,7 @@ Verification code for "Arithmetic Geometry at the Pisot Boundary" — five arith
 Companion repository for:
 
 **"Arithmetic Geometry at the Pisot Boundary: Galois Groups, Class Fields, and Implications for Physical Geometry and Loop Quantum Gravity"**  
-Stephanie Alexander, Baryonix Corp., April 2026  
+Stephanie Alexander, April 2026  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19561374
 
 ---
