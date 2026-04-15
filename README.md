@@ -8,7 +8,7 @@ Companion repository for:
 
 **"Arithmetic Geometry at the Pisot Boundary: Galois Groups, Class Fields, and Implications for Physical Geometry and Loop Quantum Gravity"**  
 Stephanie Alexander, Baryonix Corp., April 2026  
-[Zenodo DOI: to be added after upload]
+Zenodo DOI: https://doi.org/10.5281/zenodo.19561374
 
 ---
 
