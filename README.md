@@ -102,7 +102,7 @@ No dependencies beyond sympy.
 
 ## Connection to PDT
 
-Pisot Dimensional Theory derives fundamental physical constants from the algebraic boundary between x³=x+1 and x⁴=x+1. The arithmetic properties established here — prime discriminants, maximal Galois groups, unit norms ±1, Hilbert class field structure, and equal class numbers — provide the number-theoretic foundation for why these two polynomials organize physical reality.
+Pisot Dimensional Theory derives fundamental physical constants from the algebraic boundary between x³=x+1 (3D) and x⁴=x+1 (4D). The arithmetic properties established here — prime discriminants, maximal Galois groups, unit norms ±1, Hilbert class field structure, and equal class numbers — provide the number-theoretic foundation for why these two polynomials organize physical reality.
 
 **Key connections:**
 - N(Q) = −1 = ★² on 2-forms in 4D Lorentzian spacetime → arithmetic origin of Ashtekar's self-dual/anti-self-dual decomposition in LQG
